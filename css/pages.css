@@ -1,0 +1,14 @@
+.intro{
+    min-height: 100vh;
+    background-color: #F6F6F6;
+}
+
+.intro-aboutme{
+    min-height: 90vh;
+    background-color: #F8F2EC;
+}
+
+.intro-services{
+    min-height: 70vh;
+    background-color: #F6F6F6;
+}

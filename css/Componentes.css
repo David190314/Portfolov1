@@ -1,0 +1,92 @@
+.main-nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;    
+    padding-left: 30px;
+}
+
+.hide{
+    font-size: 1.2rem;
+    padding: 15px;
+    cursor: pointer;
+    
+}
+
+.nav-enlace a{
+    background-color: #c07c6b;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0.2rem 0.2rem 1rem 0.2rem rgb(202, 194, 194);
+}
+
+.nav-enlace a:hover{
+    background-color: #8085b1;
+}
+
+
+.main-nav li{    
+    display: inline-block; 
+}
+
+.main-nav a{
+    color: rgb(51, 49, 49);
+    display: inline-block; 
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.image-container{
+    border: solid 15px #A9B1EA;
+    background-size: cover; 
+}
+
+.footer a{
+    display: inline-block;
+    padding-top: 8px;
+}
+
+.footer img{
+    display: inline-block;
+    padding-top: 8px;
+}
+
+.icone img{
+    background-size: cover;
+    height: 34px;
+    width: 34;
+}
+
+/* ============================================ Cards================================================================== */
+.container-services .card{
+    width: 330px;
+    height: 430px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin: 20px;
+    text-align: center;
+    transition: all 0.25s;
+}
+
+.container-services .card:hover{
+    transform: translateY(-15px);
+    box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+}
+
+.container-services .card img{
+    width: 330px;
+    height: 220px;
+}
+
+
+.container-services .card h3{
+    font-weight: 600;
+}
+
+.container-services .card a {
+    font-weight: 500;
+    text-decoration: none;
+    color: #06D755;
+}
+
+

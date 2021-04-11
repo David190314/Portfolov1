@@ -1,0 +1,38 @@
+.display-flex{
+    display: flex;
+}    
+
+.align-items-center{
+    align-items: center;
+}
+
+.justify-conten-center{
+    justify-content: center;
+}
+
+.min-h-90-vh{
+    min-height: 90vh;
+}
+
+.min-h-100-vh{
+    min-height: 90vh;
+}
+
+.margin-top-btn{
+    display: inline-block;
+    margin-top: 8px;
+}
+
+.color-primary{
+    color: #293DCB;
+}
+
+.line-my-services{
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.background-color-services{
+    background-color: #F6F6F6;
+}

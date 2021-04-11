@@ -1,0 +1,11 @@
+.btn{
+    border: 20px;
+    padding: 5px 10px;
+    border-radius: 3px;
+    
+}
+
+.btn-home{
+    background-color:#293DCB;
+    color: white;
+}
